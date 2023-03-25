@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Kuder.UI.Admin.props" />
+</Project>
