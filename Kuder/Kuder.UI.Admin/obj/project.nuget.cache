@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2pg5IoICZhzDZfoGcTiBXuIKkC9r8bSXuwKu+g1QHcG4eS0t3OMpJPZaDpuJqXyP2RiYiyP9F5hBfy9WWQhmhg==",
+  "dgSpecHash": "f5DDf6Ovyc1V1oI21q1myx1Y4YfbFHgdP0FOyDN+BTLV+ndelziYa6dLzwyqAfRSJtNJzEmGYBekgRn5BZJ7qw==",
   "success": true,
-  "projectFilePath": "D:\\ismet\\Muka\\Kiralacar\\Kuder\\Kuder.UI.Admin\\Kuder.UI.Admin.csproj",
+  "projectFilePath": "C:\\Users\\ismet\\OneDrive\\Belgeler\\GitHub\\KuderWeb\\Kuder\\Kuder.UI.Admin\\Kuder.UI.Admin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ismet\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ismet\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
