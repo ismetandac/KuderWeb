@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Kuder.Core.Data.Entity
 {
-    public class Catagory:EntityBase
+    public class Category:EntityBase
     {
         public int? ParentId { get; set; }
         public bool IsActive { get; set; }
