@@ -1,0 +1,14 @@
+C:\Users\ismet\OneDrive\Belgeler\GitHub\KuderWeb\Kuder\Kuder.Core.Data\bin\Debug\net7.0\Kuder.Core.Data.deps.json
+C:\Users\ismet\OneDrive\Belgeler\GitHub\KuderWeb\Kuder\Kuder.Core.Data\bin\Debug\net7.0\Kuder.Core.Data.runtimeconfig.json
+C:\Users\ismet\OneDrive\Belgeler\GitHub\KuderWeb\Kuder\Kuder.Core.Data\bin\Debug\net7.0\Kuder.Core.Data.dll
+C:\Users\ismet\OneDrive\Belgeler\GitHub\KuderWeb\Kuder\Kuder.Core.Data\bin\Debug\net7.0\Kuder.Core.Data.pdb
+C:\Users\ismet\OneDrive\Belgeler\GitHub\KuderWeb\Kuder\Kuder.Core.Data\obj\Debug\net7.0\Kuder.Core.Data.csproj.AssemblyReference.cache
+C:\Users\ismet\OneDrive\Belgeler\GitHub\KuderWeb\Kuder\Kuder.Core.Data\obj\Debug\net7.0\Kuder.Core.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismet\OneDrive\Belgeler\GitHub\KuderWeb\Kuder\Kuder.Core.Data\obj\Debug\net7.0\Kuder.Core.Data.AssemblyInfoInputs.cache
+C:\Users\ismet\OneDrive\Belgeler\GitHub\KuderWeb\Kuder\Kuder.Core.Data\obj\Debug\net7.0\Kuder.Core.Data.AssemblyInfo.cs
+C:\Users\ismet\OneDrive\Belgeler\GitHub\KuderWeb\Kuder\Kuder.Core.Data\obj\Debug\net7.0\Kuder.Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\ismet\OneDrive\Belgeler\GitHub\KuderWeb\Kuder\Kuder.Core.Data\obj\Debug\net7.0\Kuder.Core.Data.dll
+C:\Users\ismet\OneDrive\Belgeler\GitHub\KuderWeb\Kuder\Kuder.Core.Data\obj\Debug\net7.0\refint\Kuder.Core.Data.dll
+C:\Users\ismet\OneDrive\Belgeler\GitHub\KuderWeb\Kuder\Kuder.Core.Data\obj\Debug\net7.0\Kuder.Core.Data.pdb
+C:\Users\ismet\OneDrive\Belgeler\GitHub\KuderWeb\Kuder\Kuder.Core.Data\obj\Debug\net7.0\Kuder.Core.Data.genruntimeconfig.cache
+C:\Users\ismet\OneDrive\Belgeler\GitHub\KuderWeb\Kuder\Kuder.Core.Data\obj\Debug\net7.0\ref\Kuder.Core.Data.dll
